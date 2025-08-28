@@ -18,7 +18,7 @@ int main(){
     }
        
     
-    
+    printf("india is my country ");
 
 
 
